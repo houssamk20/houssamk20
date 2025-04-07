@@ -1,4 +1,6 @@
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/ea0a5f89-d717-42ae-ba1d-e71060d6f862)
 # 💫 About Me:
+
 💡 I like to explore new technologies and develop software solutions and quick hacks.<br>🤖I’m on track for learning more about three.js ,React and R3F<br>🎨In my free time, I pursue 3d modeling
 
 
